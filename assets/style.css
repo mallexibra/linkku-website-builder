@@ -138,6 +138,8 @@ footer{
     right: 1;
     bottom: 0;
     color: white;
+    position: fixed;
+    bottom: 0;
     text-align: center;
     padding: 10px;
     box-sizing: border-box;
