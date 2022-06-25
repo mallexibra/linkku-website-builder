@@ -110,7 +110,7 @@ section .item-section{
 section.youtube-embed{
     width: 290px;
     height: 180px !important;
-    margin: 15px 0;
+    margin: 15px 0 50px;
 }
 
 .personal{
@@ -132,8 +132,11 @@ section.youtube-embed{
 }
 
 footer{
-    width: 100%;
+    width: 360px;
     background-color: #384d3a;
+    position: fixed;
+    right: 1;
+    bottom: 0;
     color: white;
     text-align: center;
     padding: 10px;
